@@ -9,8 +9,8 @@ Asi también el manejo de rutas y los errores de petición HTML
     -Node y NPM
     -Nodemon
     -Express
-
-Para descargar "Express" hacemos el siguiente comando
+-----------------------------------------------------------
+    Para descargar "Express" hacemos el siguiente comando
     npm install express
 
 
