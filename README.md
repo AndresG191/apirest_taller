@@ -10,7 +10,14 @@ Asi también el manejo de rutas y los errores de petición HTML
     -Nodemon
     -Express
 -----------------------------------------------------------
-    Para descargar "Express" hacemos el siguiente comando
+Para descargar "Express" hacemos el siguiente comando
+
     npm install express
+-----------------------------------------------------------
+Para ejecutar este servidor abrimos una terminal e insertamos el siguiente comando:
+
+        npm run dev
+
+Esto nos mostrará como el servidor ya esta siendo ejecutado dentro de nuestro localhost en el puerto 3000.
 
 
